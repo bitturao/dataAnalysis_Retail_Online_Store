@@ -141,7 +141,7 @@ RFM_QUANTILES = 5         # 5x5x5 RFM segmentation
 * Database-backed warehouse (PostgreSQL + dbt)
 * Automated reporting (PDF / Email scheduling)
 
-## Who This Project Is For
+## Who This Project is For
 
 * Data Analysts & BI Professionals
 * E-commerce & Retail Managers
