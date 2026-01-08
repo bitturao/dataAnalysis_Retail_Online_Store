@@ -149,14 +149,4 @@ RFM_QUANTILES = 5         # 5x5x5 RFM segmentation
 * Data Science Students
 * Portfolio Developers showcasing analytics pipelines
 
-**Good first issues**: Streamlit dashboard, churn ML model, unit tests.
-
-## Keywords & Topics (GitHub SEO)
-
-retail analytics, e-commerce analytics, sales dashboard, rfm analysis, customer segmentation, churn analysis, business intelligence, data analytics project, python data analysis, pandas analytics, matplotlib dashboard, data analyst portfolio, retail data science, customer lifetime value, ecommerce insights
-
-
-## License
-
-MIT License — free for commercial use, portfolios, and production systems.
 
